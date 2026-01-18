@@ -1,21 +1,37 @@
 ![logo](https://github.com/Snehasingh26/Snehasingh26/blob/main/Github%20banner.png.png)
-<h1 align="center">Hi 👋, I'm Sneha Singh</h1>
-<h3 align="center">BTech Computer Science Engineering student passionate about emerging technologies, data analysis, and solving real-world problems. A proactive learner with strong analytical and communication skills, committed to continuous learning, innovation, and providing high-impact tech solutions.</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sneha+Singh!;" />
+</h1>
 
-<img align="right" alt="coding girl" width="400" src="https://camo.githubusercontent.com/1c465c3ff5cce16f86a2b4a8db235671b781df5bdc087468490f8d61579e02b5/68747470733a2f2f626c6f672e63617365626f6f6b2e6e65742f68756266732f35383837392d6d756c74697461736b696e672d776f6d616e2e676966">
+<h3 align="center">A tech enthusiast with a learning mindset</h3>
 
-- My portfolio Website [https://my-portfolio-snehasingh-s.netlify.app/](https://my-portfolio-snehasingh-s.netlify.app/)
+<br/>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AvvOkPXyZuZ9oMLHmLe-dkUx1HH9KMxJ/view?usp=sharing](https://drive.google.com/file/d/1AvvOkPXyZuZ9oMLHmLe-dkUx1HH9KMxJ/view?usp=sharing)
+<div align="center">
+ 
+ 🔭 I’m currently **a final year BTech CSE student**
+ 
+ 🌱 I’m currently learning **Data Analytics and Visualization**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sneha singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sneha singh" height="30" width="40" /></a>
-</p>
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:snehasingh26004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/sneha-singh-88256924b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://openresty.org/" target="_blank" rel="noreferrer"> <img src="https://openresty.org/images/logo.png" alt="openresty" width="40" height="40"/> </a> </p>
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git"/><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,cpp,java,mysql,netlify,powershell,windows,ubuntu" /><br>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snehasingh26&show_icons=true&locale=en&layout=compact" alt="snehasingh26" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snehasingh26&show_icons=true&locale=en" alt="snehasingh26" /></p>
+<br/>
+<hr/>
